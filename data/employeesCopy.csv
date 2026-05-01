@@ -1,0 +1,101 @@
+emp_id,name,department,role
+E001,Kavya,Operations,Supervisor
+E002,Meera,Operations,Supervisor
+E003,Vikram,IT,System Admin
+E004,Amit,Operations,Operations Executive
+E005,Nikhil,IT,System Admin
+E006,Rahul,Finance,Financial Analyst
+E007,Kavya,Operations,Operations Executive
+E008,Rohit,Marketing,Content Manager
+E009,Neha,IT,System Admin
+E010,Sneha,HR,Manager
+E011,Priya,Operations,Operations Executive
+E012,Manoj,HR,Manager
+E013,Kiran,HR,Manager
+E014,Asha,HR,Manager
+E015,Anjali,Marketing,Content Manager
+E016,Ritu,Marketing,SEO Specialist
+E017,Manoj,Operations,Supervisor
+E018,Nikhil,HR,Recruiter
+E019,Deepak,HR,Manager
+E020,Rahul,Operations,Supervisor
+E021,Rahul,IT,DevOps Engineer
+E022,Neha,Operations,Supervisor
+E023,Priya,Marketing,SEO Specialist
+E024,Divya,Sales,Sales Manager
+E025,Vikram,Sales,Sales Manager
+E026,Manoj,Finance,Accountant
+E027,Manoj,Finance,Accountant
+E028,Deepak,Operations,Operations Executive
+E029,Asha,IT,DevOps Engineer
+E030,Deepak,Marketing,Content Manager
+E031,Pooja,HR,HR Executive
+E032,Pooja,Finance,Accountant
+E033,Asha,IT,System Admin
+E034,Manoj,Operations,Supervisor
+E035,Pooja,Finance,Financial Analyst
+E036,Pooja,Finance,Accountant
+E037,Vikram,Finance,Financial Analyst
+E038,Rahul,HR,HR Executive
+E039,Sneha,IT,DevOps Engineer
+E040,Meera,Marketing,SEO Specialist
+E041,Arjun,Finance,Accountant
+E042,Asha,Operations,Supervisor
+E043,Divya,Sales,Sales Executive
+E044,Arjun,IT,DevOps Engineer
+E045,Anjali,Sales,Sales Executive
+E046,Asha,Operations,Operations Executive
+E047,Meera,HR,Manager
+E048,Pooja,HR,HR Executive
+E049,Ritu,Finance,Financial Analyst
+E050,Manoj,Sales,Sales Manager
+E051,Neha,Operations,Operations Executive
+E052,Sneha,Marketing,SEO Specialist
+E053,Divya,Finance,Accountant
+E054,Rahul,Operations,Operations Executive
+E055,Asha,Sales,Sales Executive
+E056,Nikhil,HR,Manager
+E057,Sanjay,Finance,Financial Analyst
+E058,Kavya,HR,Manager
+E059,Divya,Marketing,Content Manager
+E060,Sneha,Sales,Sales Executive
+E061,Sanjay,Marketing,SEO Specialist
+E062,Neha,Sales,Sales Manager
+E063,Ritu,Sales,Sales Executive
+E064,Divya,Operations,Operations Executive
+E065,Amit,HR,HR Executive
+E066,Asha,Finance,Accountant
+E067,Kiran,Operations,Operations Executive
+E068,Rahul,HR,HR Executive
+E069,Asha,HR,Recruiter
+E070,Meera,IT,System Admin
+E071,Nikhil,Marketing,SEO Specialist
+E072,Nikhil,Operations,Supervisor
+E073,Sneha,HR,Recruiter
+E074,Nikhil,Marketing,Content Manager
+E075,Amit,IT,System Admin
+E076,Rohit,IT,Tester
+E077,Nikhil,Marketing,Content Manager
+E078,Meera,IT,System Admin
+E079,Nikhil,Finance,Accountant
+E080,Kiran,HR,Recruiter
+E081,Meera,HR,Recruiter
+E082,Sanjay,Sales,Sales Manager
+E083,Rahul,Operations,Operations Executive
+E084,Nikhil,Marketing,Content Manager
+E085,Vikram,Finance,Financial Analyst
+E086,Nikhil,Sales,Sales Executive
+E087,Deepak,HR,Manager
+E088,Priya,Sales,Sales Executive
+E089,Arjun,Sales,Sales Executive
+E090,Vikram,Finance,Financial Analyst
+E091,Nikhil,IT,Developer
+E092,Asha,Operations,Supervisor
+E093,Kiran,Finance,Accountant
+E094,Anjali,Marketing,Content Manager
+E095,Priya,Finance,Financial Analyst
+E096,Sanjay,Finance,Financial Analyst
+E097,Ritu,Operations,Operations Executive
+E098,Amit,Finance,Financial Analyst
+E099,Anjali,Sales,Sales Executive
+E100,Meera,Marketing,SEO Specialist

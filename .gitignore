@@ -1,0 +1,56 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# ===========================
+# Virtual Environment
+# ===========================
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ===========================
+# Environment Variables
+# ===========================
+.env
+.env.local
+.env.*.local
+*.env
+
+# ===========================
+# Streamlit
+# ===========================
+.streamlit/secrets.toml
+
+# ===========================
+# VSCode
+# ===========================
+.vscode/
+*.code-workspace
+
+# ===========================
+# OS Files
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# Logs & Temp
+# ===========================
+*.log
+*.tmp
+*.temp
+.cache/
