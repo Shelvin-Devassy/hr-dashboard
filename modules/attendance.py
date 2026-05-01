@@ -1,3 +1,4 @@
+import pandas as pd
 from modules.utils import load_csv, save_csv
 
 FILE = "data/attendance.csv"
@@ -14,6 +15,6 @@ def add_record(new):
     if exists:
         return False
 
-    df = df._append(new, ignore_index=True)
+    df = pd.concat([df, pd.DataFrame([new])], ignore_index=True)
     save_csv(df, FILE)
     return True
