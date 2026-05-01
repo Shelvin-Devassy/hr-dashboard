@@ -9,6 +9,11 @@ def get_data():
 def add_record(new):
     df = get_data()
 
+    required_cols = ['emp_id', 'date', 'status']
+    for col in required_cols:
+        if col not in df.columns:
+            pass
+
     # prevent duplicate entry
     exists = ((df['emp_id'] == new['emp_id']) & (df['date'] == new['date'])).any()
 
