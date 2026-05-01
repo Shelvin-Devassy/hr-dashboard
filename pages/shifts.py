@@ -28,6 +28,7 @@ def show():
 
         if success:
             st.success("Shift assigned successfully!")
+            time.sleep(2)
             st.rerun()
         else:
             st.error("Duplicate entry: This employee already has a shift on this date.")

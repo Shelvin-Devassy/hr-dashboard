@@ -1,5 +1,6 @@
 import streamlit as st
 from modules.leave import get_data, apply_leave
+import time
 
 def show():
     st.title("Leave Management")
@@ -26,6 +27,7 @@ def show():
 
         if success:
             st.success("Leave applied successfully!")
+            time.sleep(2)
             st.rerun()
         else:
             st.error("Duplicate entry: A leave request already exists for this employee starting on this date.")

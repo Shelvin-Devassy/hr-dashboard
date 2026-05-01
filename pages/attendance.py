@@ -31,4 +31,4 @@ def show():
             st.success("Added")
             st.rerun()
         else:
-            st.error("Duplicate entry")
+            st.error("Record already exists.")
