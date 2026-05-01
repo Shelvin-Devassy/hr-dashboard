@@ -1,6 +1,7 @@
 import streamlit as st
 from modules.schedule import get_data, add_shift
-from datetime import time
+import datetime
+import time
 
 def show():
     st.title("Shift Scheduling")
@@ -13,8 +14,8 @@ def show():
     emp = st.text_input("Employee ID")
     date = st.date_input("Date")
     shift = st.selectbox("Shift", ["Morning", "Evening"])
-    start = st.time_input("Start Time", time(9, 0))
-    end = st.time_input("End Time", time(17, 0))
+    start = st.time_input("Start Time", datetime.time(9, 0))
+    end = st.time_input("End Time", datetime.time(17, 0))
 
     if st.button("Assign"):
         # Capture the boolean result from the module
